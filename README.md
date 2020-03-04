@@ -12,5 +12,7 @@ Valkyrie is a Robot that can cooperate in hospitals with the doctors and nurses 
   * we will add some voice Like: hello i am Valkyrie..now i am assigned for you or ???? job.
 * Fourth Phase:
   * IT WILL FLY :P
+* Fift Phase:
+  * IT will be able to clean the hospital floor
   
   
