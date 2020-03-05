@@ -25,8 +25,15 @@ Valkyrie is a Robot that can cooperate in hospitals with the doctors and nurses 
 * **Seventh Phase**
   *  Add Coffee Maker 
   
+* **Eighth Phase**
+  * It will automatically open security based locked door. 
+  
+* **Ninth Phase**
+  * It will automatically call and rides elevators.  
+
 * **Final Phase**  
   *  We will try to make Valkyrie Slim.
+
   
   
   
