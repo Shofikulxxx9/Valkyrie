@@ -34,9 +34,29 @@ Valkyrie is a Robot that can cooperate in hospitals with the doctors and nurses 
 * **Final Phase**  
   *  We will try to make Valkyrie Slim.
 
-* **Overview of Valkyrie Ground Robot construction**  
+* **Overview of Valkyrie Hospital Robot construction**  
   *  Thre will be three section in the construction
-     1.Drive Unit 2.Sensore/Navigation 3.Load pick-up, Drop-offs
+
+     1.Drive Unit: In the drive unit there will be some motors with wheels, suspention if nidded, motor driver, microcontroller(esp32) and other electronics parts.
+
+     2.Navigation: For navigation we will use laser sensor for sens the environment. For processing the data we will use NVIDIA TEGRA X1X2/HAVIER.
+
+     3.Load pick-up, Drop-offs: Basically this part is all about the mechanical things. For pickup we can use hock or something like that can pick loads. And also we will need a microcontroller.
+
+* **Overview of Outdoo-Dron construction**  
+  *  Thre will be five section in the construction
+
+     1.Drive Unit.
+
+     2.Environment Sense.
+
+     3.Embidded System.
+      
+     4.Landing - Take-off.
+
+     5.Mechanical.
+
+
 
 
   
