@@ -34,6 +34,11 @@ Valkyrie is a Robot that can cooperate in hospitals with the doctors and nurses 
 * **Final Phase**  
   *  We will try to make Valkyrie Slim.
 
+* **Overview of Valkyrie Ground Robot construction**  
+  *  Thre will be three section in the construction
+     1.Drive Unit 2.Sensore/Navigation 3.Load pick-up, Drop-offs
+
+
   
   
   
