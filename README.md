@@ -39,7 +39,7 @@ Valkyrie is a Robot that can cooperate in hospitals with the doctors and nurses 
 
      1.Drive Unit: In the drive unit there will be some motors with wheels, suspention if nidded, motor driver, microcontroller(esp32) and other electronics parts.
 
-     2.Navigation: For navigation we will use laser sensor for sens the environment. For processing the data we will use NVIDIA TEGRA X1X2/HAVIER.
+     2.Navigation: For navigation we will use laser sensor for sens the environment. For processing the data we will use NVIDIA TEGRA X1/X2/XAVIER.
 
      3.Load pick-up, Drop-offs: Basically this part is all about the mechanical things. For pickup we can use hock or something like that can pick loads. And also we will need a microcontroller.
 
