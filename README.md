@@ -30,6 +30,12 @@ Valkyrie is a Robot that can cooperate in hospitals with the doctors and nurses 
   
 * **Ninth Phase**
   *  Add Coffee Maker   
+  
+* **Tenth Phase**
+  *  Ability to spray antiviral drugs or something
+  
+* **Eleventh Phase**
+  *  Thermal scanning capability to measure human body temperature
 
 * **Final Phase**  
   *  We will try to make Valkyrie Slim.
