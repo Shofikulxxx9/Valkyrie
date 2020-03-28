@@ -1,0 +1,36 @@
+**Image Processing:**
+The task for Image processing is to detect the cross and its co-ordinates from the word space
+and Image Space.
+
+Their is Two Co-ordinate spaces that we have consider for this task.
+      1. World space/camera space
+      2. Image space
+
+Camera Space: the origin of the camera space is the location of camera senso. There should be
+the co-ordinates x, y and Z. These three co-ordinates will determine the the position of the object
+from x and y co-ordinates and z co-ordinate will determine the distance from the object to the camera
+sensor.
+
+Image Space: Image stores in the camera sensor pixel by pixel as matrix. There for the origin of
+camera sensor is the top left pixel. The line of y co-ordinate of the image space start from 0,0 to 1,0; 2,0; 3,0...
+and the x co-ordinate start from 0,0 to 0,1; 0,2; 0,3....
+
+
+**Steps of the task:**
+  step1: Detect the object which is basically a cross sign.
+  step2: Find the co-ordinate of the object from the Image space.(unit of the co-ordinates: meter)
+  step3: Convert-the x,y co-ordinates of the object from Image Space into World space(or camera space).
+  step4: Find out the z co-ordinate of the object from Camera space.
+  step5: Convert the parameters of co-ordinates into real world parameter.
+
+Note: the parameters we find from the camera space is not the same parameter in the real world.
+      the parameters from camera space is much smaller than real world parameters.
+
+=>To get the real word parameters we have know:
+  1.The number of camera pixels
+  2.The size of pixels.
+  3.The power of camera lens
+
+=>Distence from the object:
+  We can get the distence of the object usimg the relation between the distence and the size of objectin the image.
+  Lower the distence from sensore to the object bigger the size of object in the image.
