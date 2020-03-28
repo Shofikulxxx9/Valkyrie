@@ -34,3 +34,13 @@ Note: the parameters we find from the camera space is not the same parameter in 
 =>Distence from the object:
   We can get the distence of the object usimg the relation between the distence and the size of objectin the image.
   Lower the distence from sensore to the object bigger the size of object in the image.
+  
+  **For now I am trying to solve the problem with line detection**
+  =>Next tasks are:
+  step1: Cross detection
+  step2: Find the co-ordinate of the cross sign from the Image space.
+  step3: Convert-the x,y co-ordinates of the object from Image Space into Camera space.
+  step4: Calculate the distance of the cross sign by image processing.
+  step5: Convert the parameter of x,y co-ordinates into real world params.
+  step6: Camera sizing
+ 
