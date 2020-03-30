@@ -56,7 +56,7 @@ Valkyrie is a Robot that can cooperate in hospitals with the doctors and nurses 
 
      2.Environment Sense.
 
-     3.Embidded System.
+     3.Embedded System.
       
      4.Landing - Take-off.
 
