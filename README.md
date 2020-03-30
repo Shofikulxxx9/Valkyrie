@@ -41,7 +41,7 @@ Valkyrie is a Robot that can cooperate in hospitals with the doctors and nurses 
   *  We will try to make Valkyrie Slim.
 
 * **Overview of Valkyrie Hospital Robot construction**  
-  *  Thre will be three section in the construction
+  *  There will be three sections in the construction
 
      1.Drive Unit: In the drive unit there will be some motors with wheels, suspention if nidded, motor driver, microcontroller(esp32) and other electronics parts.
 
@@ -50,7 +50,7 @@ Valkyrie is a Robot that can cooperate in hospitals with the doctors and nurses 
      3.Load pick-up, Drop-offs: Basically this part is all about the mechanical things. For pickup we can use hock or something like that can pick loads. And also we will need a microcontroller.
 
 * **Overview of Outdoo-Dron construction**  
-  *  Thre will be five section in the construction
+  *  There will be five sections in the construction
 
      1.Drive Unit.
 
