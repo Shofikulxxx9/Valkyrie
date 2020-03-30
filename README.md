@@ -43,11 +43,11 @@ Valkyrie is a Robot that can cooperate in hospitals with the doctors and nurses 
 * **Overview of Valkyrie Hospital Robot construction**  
   *  There will be three sections in the construction
 
-     1.Drive Unit: In the drive unit there will be some motors with wheels, suspention if nidded, motor driver, microcontroller(esp32) and other electronics parts.
+     1.Drive Unit: In the drive unit there will be some motors with wheels, suspention if needed, motor driver, microcontroller(esp32) and other electronics parts.
 
      2.Navigation: For navigation we will use laser sensor for sens the environment. For processing the data we will use NVIDIA TEGRA X1/X2/XAVIER.
 
-     3.Load pick-up, Drop-offs: Basically this part is all about the mechanical things. For pickup we can use hock or something like that can pick loads. And also we will need a microcontroller.
+     3.Load pick-up, Drop-offs: Basically this part is all about the mechanical things. For pickup we can use hook or something like that can pick loads. And also we will need a microcontroller.
 
 * **Overview of Outdoo-Dron construction**  
   *  There will be five sections in the construction
