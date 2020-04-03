@@ -73,6 +73,20 @@ This motor is much light weight and less expensive and higly reliable.
  
     Gearhead: Flatline 85(Spur gearhead). It can provide us (0.3*454) = 136.2Nm torque that will help us to carry up to 150kg (200kg possible) weight.
 
+* **Positional Accuracy for Kyrie**
+  * As per requirement for the Kyrie we need a High-precision Positioning and Real time data processing system. So, We have looked for different types of GPS sensors,specially the DGPS (Differential Global Positioning System) sensors which are more suitable for our Kyrie.
+  * Finally, we have selected C099-F9P Application Board which allows efficient evaluation of ZED-F9P, the u-blox F9 high precision positioning module. The ZED-F9P GNSS module provides multi-band GNSS and comes with built-in RTK technology providing centimeter level (0.01m + 1 ppm CEP) accuracy to users. 
+  * For powering the board we are going to use A 3.7V Li-Po Battery via a JST connector and also USB-to-DC plug adapter cable as backup.
+  
+  * For Communication we are going to pair a mobile phone running an NTRIP client to the C099-F9P application board using Bluetooth. 
+  Another use case could be use of two C099-F9P application boards operating as Rover and Base, where the two boards communicate over a   direct Wi-Fi connection. 
+  
+                              * More descriptions are added in the Repo.*
+  
+  * Current plan: We are going to buy two application boards with two 3.7V Li-Po Battery. (other necessary items are included to the         package of  C099-F9P board)
+  
+  * Next Plan: Path Planning for kyrie.
+  
 
 
 
